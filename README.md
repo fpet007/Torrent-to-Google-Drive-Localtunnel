@@ -1,4 +1,4 @@
-# Torrent-to-Google-Drive-Localtunnel traduit en Français
+# Torrent-to-Google-Drive-Localtunnel
 [![Generic badge](https://img.shields.io/badge/Author-fpet007-green)](https://shields.io/)
 
 Il s'agit d'un ordinateur portable Google Colab avec localtunnel + QBittorrent, qui peut télécharger des torrents sur Google Drive.
